@@ -1,3 +1,10 @@
-# Flask
+# OASIS Gaming TOPUP/BIDDING SITE
 
-A Flask starter template as per the docs: https://flask.palletsprojects.com/en/3.0.x/quickstart/#a-minimal-application
+This is the official documentation for the OASIS Gaming TOPUP/BIDDING SITE.
+
+## Features
+* Topup OASIS Gaming accounts
+* Bid on OASIS Gaming items
+* View your topup/bidding history
+* Manage your account
+* View OASIS Gaming
